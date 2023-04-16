@@ -75,7 +75,7 @@ public class Main {
             System.exit(0);
         }
         if ((m > graph.V()) || (m <= 0)) {
-            System.out.println("There is no such airport with the code: " + n); 
+            System.out.println("There is no such airport with the code: " + m); 
             System.exit(0);
         }
         if (n == m) {
